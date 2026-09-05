@@ -19,3 +19,15 @@ Welcome to my collection of **LeetCode solutions**! 🧠
 <p align="center">
   <b>Keep Coding. Keep Growing. 🚀</b>
 </p>
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [3904-smallest-stable-index-ii](https://github.com/sahil-khot/LeetCode/tree/master/3904-smallest-stable-index-ii) |
+## Prefix Sum
+|  |
+| ------- |
+| [3904-smallest-stable-index-ii](https://github.com/sahil-khot/LeetCode/tree/master/3904-smallest-stable-index-ii) |
+<!---LeetCode Topics End-->
