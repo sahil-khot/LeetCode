@@ -25,6 +25,7 @@ Welcome to my collection of **LeetCode solutions**! 🧠
 ## Array
 |  |
 | ------- |
+| [0648-replace-words](https://github.com/sahil-khot/LeetCode/tree/master/0648-replace-words) |
 | [3904-smallest-stable-index-ii](https://github.com/sahil-khot/LeetCode/tree/master/3904-smallest-stable-index-ii) |
 ## Prefix Sum
 |  |
@@ -34,11 +35,13 @@ Welcome to my collection of **LeetCode solutions**! 🧠
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/sahil-khot/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
+| [0648-replace-words](https://github.com/sahil-khot/LeetCode/tree/master/0648-replace-words) |
 ## String
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/sahil-khot/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/sahil-khot/LeetCode/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0648-replace-words](https://github.com/sahil-khot/LeetCode/tree/master/0648-replace-words) |
 ## Design
 |  |
 | ------- |
@@ -49,6 +52,7 @@ Welcome to my collection of **LeetCode solutions**! 🧠
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/sahil-khot/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/sahil-khot/LeetCode/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0648-replace-words](https://github.com/sahil-khot/LeetCode/tree/master/0648-replace-words) |
 ## Depth-First Search
 |  |
 | ------- |
