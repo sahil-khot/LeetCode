@@ -57,4 +57,8 @@ Welcome to my collection of **LeetCode solutions**! 🧠
 |  |
 | ------- |
 | [0211-design-add-and-search-words-data-structure](https://github.com/sahil-khot/LeetCode/tree/master/0211-design-add-and-search-words-data-structure) |
+## Math
+|  |
+| ------- |
+| [3870-count-commas-in-range](https://github.com/sahil-khot/LeetCode/tree/master/3870-count-commas-in-range) |
 <!---LeetCode Topics End-->
