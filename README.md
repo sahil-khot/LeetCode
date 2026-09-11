@@ -25,6 +25,7 @@ Welcome to my collection of **LeetCode solutions**! 🧠
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/sahil-khot/LeetCode/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/sahil-khot/LeetCode/tree/master/0031-next-permutation) |
 | [0118-pascals-triangle](https://github.com/sahil-khot/LeetCode/tree/master/0118-pascals-triangle) |
 | [0229-majority-element-ii](https://github.com/sahil-khot/LeetCode/tree/master/0229-majority-element-ii) |
@@ -78,6 +79,7 @@ Welcome to my collection of **LeetCode solutions**! 🧠
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/sahil-khot/LeetCode/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/sahil-khot/LeetCode/tree/master/0031-next-permutation) |
 ## Dynamic Programming
 |  |
@@ -86,6 +88,7 @@ Welcome to my collection of **LeetCode solutions**! 🧠
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/sahil-khot/LeetCode/tree/master/0015-3sum) |
 | [0229-majority-element-ii](https://github.com/sahil-khot/LeetCode/tree/master/0229-majority-element-ii) |
 ## Counting
 |  |
