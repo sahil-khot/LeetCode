@@ -30,6 +30,7 @@ Welcome to my collection of **LeetCode solutions**! 🧠
 | [0031-next-permutation](https://github.com/sahil-khot/LeetCode/tree/master/0031-next-permutation) |
 | [0056-merge-intervals](https://github.com/sahil-khot/LeetCode/tree/master/0056-merge-intervals) |
 | [0118-pascals-triangle](https://github.com/sahil-khot/LeetCode/tree/master/0118-pascals-triangle) |
+| [0152-maximum-product-subarray](https://github.com/sahil-khot/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0229-majority-element-ii](https://github.com/sahil-khot/LeetCode/tree/master/0229-majority-element-ii) |
 | [0463-island-perimeter](https://github.com/sahil-khot/LeetCode/tree/master/0463-island-perimeter) |
 | [0493-reverse-pairs](https://github.com/sahil-khot/LeetCode/tree/master/0493-reverse-pairs) |
@@ -92,6 +93,7 @@ Welcome to my collection of **LeetCode solutions**! 🧠
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/sahil-khot/LeetCode/tree/master/0118-pascals-triangle) |
+| [0152-maximum-product-subarray](https://github.com/sahil-khot/LeetCode/tree/master/0152-maximum-product-subarray) |
 ## Sorting
 |  |
 | ------- |
