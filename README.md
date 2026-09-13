@@ -141,4 +141,8 @@ Welcome to my collection of **LeetCode solutions**! 🧠
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/sahil-khot/LeetCode/tree/master/0493-reverse-pairs) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0476-number-complement](https://github.com/sahil-khot/LeetCode/tree/master/0476-number-complement) |
 <!---LeetCode Topics End-->
