@@ -28,6 +28,7 @@ Welcome to my collection of **LeetCode solutions**! 🧠
 | [0015-3sum](https://github.com/sahil-khot/LeetCode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/sahil-khot/LeetCode/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/sahil-khot/LeetCode/tree/master/0031-next-permutation) |
+| [0035-search-insert-position](https://github.com/sahil-khot/LeetCode/tree/master/0035-search-insert-position) |
 | [0056-merge-intervals](https://github.com/sahil-khot/LeetCode/tree/master/0056-merge-intervals) |
 | [0118-pascals-triangle](https://github.com/sahil-khot/LeetCode/tree/master/0118-pascals-triangle) |
 | [0152-maximum-product-subarray](https://github.com/sahil-khot/LeetCode/tree/master/0152-maximum-product-subarray) |
@@ -116,6 +117,7 @@ Welcome to my collection of **LeetCode solutions**! 🧠
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/sahil-khot/LeetCode/tree/master/0035-search-insert-position) |
 | [0493-reverse-pairs](https://github.com/sahil-khot/LeetCode/tree/master/0493-reverse-pairs) |
 ## Divide and Conquer
 |  |
