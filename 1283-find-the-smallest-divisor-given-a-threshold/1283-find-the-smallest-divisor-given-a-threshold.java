@@ -27,8 +27,7 @@ class Solution {
     public boolean isValidAns(int[] nums, int mid, int threshold) {
         int sum = 0;
         for(int num : nums) {
-            int val = (num + mid - 1) / mid;
-            sum += val;
+            sum += Math.ceil((double)num / mid);
 
             if(sum > threshold) {
                 return false;
