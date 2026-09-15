@@ -25,6 +25,7 @@ Welcome to my collection of **LeetCode solutions**! 🧠
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/sahil-khot/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/sahil-khot/LeetCode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/sahil-khot/LeetCode/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/sahil-khot/LeetCode/tree/master/0031-next-permutation) |
@@ -59,6 +60,7 @@ Welcome to my collection of **LeetCode solutions**! 🧠
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/sahil-khot/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0208-implement-trie-prefix-tree](https://github.com/sahil-khot/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/sahil-khot/LeetCode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0648-replace-words](https://github.com/sahil-khot/LeetCode/tree/master/0648-replace-words) |
@@ -70,6 +72,7 @@ Welcome to my collection of **LeetCode solutions**! 🧠
 ## Trie
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/sahil-khot/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0208-implement-trie-prefix-tree](https://github.com/sahil-khot/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/sahil-khot/LeetCode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0648-replace-words](https://github.com/sahil-khot/LeetCode/tree/master/0648-replace-words) |
