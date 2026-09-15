@@ -39,6 +39,7 @@ Welcome to my collection of **LeetCode solutions**! 🧠
 | [0493-reverse-pairs](https://github.com/sahil-khot/LeetCode/tree/master/0493-reverse-pairs) |
 | [0560-subarray-sum-equals-k](https://github.com/sahil-khot/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0648-replace-words](https://github.com/sahil-khot/LeetCode/tree/master/0648-replace-words) |
+| [0875-koko-eating-bananas](https://github.com/sahil-khot/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [3904-smallest-stable-index-ii](https://github.com/sahil-khot/LeetCode/tree/master/3904-smallest-stable-index-ii) |
 ## Prefix Sum
 |  |
@@ -123,6 +124,7 @@ Welcome to my collection of **LeetCode solutions**! 🧠
 | [0035-search-insert-position](https://github.com/sahil-khot/LeetCode/tree/master/0035-search-insert-position) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/sahil-khot/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0493-reverse-pairs](https://github.com/sahil-khot/LeetCode/tree/master/0493-reverse-pairs) |
+| [0875-koko-eating-bananas](https://github.com/sahil-khot/LeetCode/tree/master/0875-koko-eating-bananas) |
 ## Divide and Conquer
 |  |
 | ------- |
