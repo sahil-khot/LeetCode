@@ -25,6 +25,7 @@ Welcome to my collection of **LeetCode solutions**! 🧠
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/sahil-khot/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/sahil-khot/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/sahil-khot/LeetCode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/sahil-khot/LeetCode/tree/master/0018-4sum) |
@@ -126,6 +127,7 @@ Welcome to my collection of **LeetCode solutions**! 🧠
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/sahil-khot/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/sahil-khot/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/sahil-khot/LeetCode/tree/master/0035-search-insert-position) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/sahil-khot/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -137,6 +139,7 @@ Welcome to my collection of **LeetCode solutions**! 🧠
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/sahil-khot/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0493-reverse-pairs](https://github.com/sahil-khot/LeetCode/tree/master/0493-reverse-pairs) |
 ## Binary Indexed Tree
 |  |
