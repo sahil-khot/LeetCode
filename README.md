@@ -55,6 +55,7 @@ Welcome to my collection of **LeetCode solutions**! 🧠
 ## Hash Table
 |  |
 | ------- |
+| [0205-isomorphic-strings](https://github.com/sahil-khot/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/sahil-khot/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0229-majority-element-ii](https://github.com/sahil-khot/LeetCode/tree/master/0229-majority-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/sahil-khot/LeetCode/tree/master/0560-subarray-sum-equals-k) |
@@ -64,6 +65,7 @@ Welcome to my collection of **LeetCode solutions**! 🧠
 | ------- |
 | [0014-longest-common-prefix](https://github.com/sahil-khot/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0151-reverse-words-in-a-string](https://github.com/sahil-khot/LeetCode/tree/master/0151-reverse-words-in-a-string) |
+| [0205-isomorphic-strings](https://github.com/sahil-khot/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/sahil-khot/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/sahil-khot/LeetCode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0648-replace-words](https://github.com/sahil-khot/LeetCode/tree/master/0648-replace-words) |
