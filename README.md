@@ -58,6 +58,7 @@ Welcome to my collection of **LeetCode solutions**! 🧠
 | [0205-isomorphic-strings](https://github.com/sahil-khot/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/sahil-khot/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0229-majority-element-ii](https://github.com/sahil-khot/LeetCode/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/sahil-khot/LeetCode/tree/master/0242-valid-anagram) |
 | [0560-subarray-sum-equals-k](https://github.com/sahil-khot/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0648-replace-words](https://github.com/sahil-khot/LeetCode/tree/master/0648-replace-words) |
 ## String
@@ -68,6 +69,7 @@ Welcome to my collection of **LeetCode solutions**! 🧠
 | [0205-isomorphic-strings](https://github.com/sahil-khot/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/sahil-khot/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/sahil-khot/LeetCode/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0242-valid-anagram](https://github.com/sahil-khot/LeetCode/tree/master/0242-valid-anagram) |
 | [0648-replace-words](https://github.com/sahil-khot/LeetCode/tree/master/0648-replace-words) |
 | [0796-rotate-string](https://github.com/sahil-khot/LeetCode/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/sahil-khot/LeetCode/tree/master/1021-remove-outermost-parentheses) |
@@ -122,6 +124,7 @@ Welcome to my collection of **LeetCode solutions**! 🧠
 | [0018-4sum](https://github.com/sahil-khot/LeetCode/tree/master/0018-4sum) |
 | [0056-merge-intervals](https://github.com/sahil-khot/LeetCode/tree/master/0056-merge-intervals) |
 | [0229-majority-element-ii](https://github.com/sahil-khot/LeetCode/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/sahil-khot/LeetCode/tree/master/0242-valid-anagram) |
 ## Counting
 |  |
 | ------- |
