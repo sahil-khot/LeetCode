@@ -66,6 +66,7 @@ Welcome to my collection of **LeetCode solutions**! 🧠
 | [0208-implement-trie-prefix-tree](https://github.com/sahil-khot/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/sahil-khot/LeetCode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0648-replace-words](https://github.com/sahil-khot/LeetCode/tree/master/0648-replace-words) |
+| [1021-remove-outermost-parentheses](https://github.com/sahil-khot/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 ## Design
 |  |
 | ------- |
@@ -168,4 +169,12 @@ Welcome to my collection of **LeetCode solutions**! 🧠
 |  |
 | ------- |
 | [0476-number-complement](https://github.com/sahil-khot/LeetCode/tree/master/0476-number-complement) |
+## Stack
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/sahil-khot/LeetCode/tree/master/1021-remove-outermost-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/sahil-khot/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
