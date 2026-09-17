@@ -63,6 +63,7 @@ Welcome to my collection of **LeetCode solutions**! 🧠
 | [0451-sort-characters-by-frequency](https://github.com/sahil-khot/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/sahil-khot/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0648-replace-words](https://github.com/sahil-khot/LeetCode/tree/master/0648-replace-words) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/sahil-khot/LeetCode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## String
 |  |
 | ------- |
@@ -80,6 +81,7 @@ Welcome to my collection of **LeetCode solutions**! 🧠
 | [0796-rotate-string](https://github.com/sahil-khot/LeetCode/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/sahil-khot/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/sahil-khot/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/sahil-khot/LeetCode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1903-largest-odd-number-in-string](https://github.com/sahil-khot/LeetCode/tree/master/1903-largest-odd-number-in-string) |
 ## Design
 |  |
@@ -141,6 +143,7 @@ Welcome to my collection of **LeetCode solutions**! 🧠
 | ------- |
 | [0229-majority-element-ii](https://github.com/sahil-khot/LeetCode/tree/master/0229-majority-element-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/sahil-khot/LeetCode/tree/master/0451-sort-characters-by-frequency) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/sahil-khot/LeetCode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
