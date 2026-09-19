@@ -172,6 +172,7 @@ Welcome to my collection of **LeetCode solutions**! 🧠
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/sahil-khot/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0191-number-of-1-bits](https://github.com/sahil-khot/LeetCode/tree/master/0191-number-of-1-bits) |
 | [0493-reverse-pairs](https://github.com/sahil-khot/LeetCode/tree/master/0493-reverse-pairs) |
 ## Binary Indexed Tree
 |  |
@@ -196,6 +197,7 @@ Welcome to my collection of **LeetCode solutions**! 🧠
 ## Bit Manipulation
 |  |
 | ------- |
+| [0191-number-of-1-bits](https://github.com/sahil-khot/LeetCode/tree/master/0191-number-of-1-bits) |
 | [0476-number-complement](https://github.com/sahil-khot/LeetCode/tree/master/0476-number-complement) |
 ## Stack
 |  |
