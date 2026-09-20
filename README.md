@@ -86,6 +86,7 @@ Welcome to my collection of **LeetCode solutions**! 🧠
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/sahil-khot/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/sahil-khot/LeetCode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1903-largest-odd-number-in-string](https://github.com/sahil-khot/LeetCode/tree/master/1903-largest-odd-number-in-string) |
+| [3498-reverse-degree-of-a-string](https://github.com/sahil-khot/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
 ## Design
 |  |
 | ------- |
@@ -251,4 +252,8 @@ Welcome to my collection of **LeetCode solutions**! 🧠
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/sahil-khot/LeetCode/tree/master/0204-count-primes) |
+## Simulation
+|  |
+| ------- |
+| [3498-reverse-degree-of-a-string](https://github.com/sahil-khot/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
 <!---LeetCode Topics End-->
