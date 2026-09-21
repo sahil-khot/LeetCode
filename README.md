@@ -58,6 +58,7 @@ Welcome to my collection of **LeetCode solutions**! 🧠
 | ------- |
 | [0012-integer-to-roman](https://github.com/sahil-khot/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/sahil-khot/LeetCode/tree/master/0013-roman-to-integer) |
+| [0160-intersection-of-two-linked-lists](https://github.com/sahil-khot/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0205-isomorphic-strings](https://github.com/sahil-khot/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/sahil-khot/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0229-majority-element-ii](https://github.com/sahil-khot/LeetCode/tree/master/0229-majority-element-ii) |
@@ -129,6 +130,7 @@ Welcome to my collection of **LeetCode solutions**! 🧠
 | [0018-4sum](https://github.com/sahil-khot/LeetCode/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/sahil-khot/LeetCode/tree/master/0031-next-permutation) |
 | [0151-reverse-words-in-a-string](https://github.com/sahil-khot/LeetCode/tree/master/0151-reverse-words-in-a-string) |
+| [0160-intersection-of-two-linked-lists](https://github.com/sahil-khot/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -256,4 +258,8 @@ Welcome to my collection of **LeetCode solutions**! 🧠
 |  |
 | ------- |
 | [3498-reverse-degree-of-a-string](https://github.com/sahil-khot/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
+## Linked List
+|  |
+| ------- |
+| [0160-intersection-of-two-linked-lists](https://github.com/sahil-khot/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 <!---LeetCode Topics End-->
