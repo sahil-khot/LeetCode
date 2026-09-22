@@ -58,6 +58,7 @@ Welcome to my collection of **LeetCode solutions**! 🧠
 | ------- |
 | [0012-integer-to-roman](https://github.com/sahil-khot/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/sahil-khot/LeetCode/tree/master/0013-roman-to-integer) |
+| [0138-copy-list-with-random-pointer](https://github.com/sahil-khot/LeetCode/tree/master/0138-copy-list-with-random-pointer) |
 | [0160-intersection-of-two-linked-lists](https://github.com/sahil-khot/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0205-isomorphic-strings](https://github.com/sahil-khot/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/sahil-khot/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
@@ -266,6 +267,7 @@ Welcome to my collection of **LeetCode solutions**! 🧠
 | [0021-merge-two-sorted-lists](https://github.com/sahil-khot/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/sahil-khot/LeetCode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0061-rotate-list](https://github.com/sahil-khot/LeetCode/tree/master/0061-rotate-list) |
+| [0138-copy-list-with-random-pointer](https://github.com/sahil-khot/LeetCode/tree/master/0138-copy-list-with-random-pointer) |
 | [0160-intersection-of-two-linked-lists](https://github.com/sahil-khot/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 ## Recursion
 |  |
