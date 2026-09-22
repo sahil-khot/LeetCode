@@ -114,6 +114,7 @@ Welcome to my collection of **LeetCode solutions**! 🧠
 | [0013-roman-to-integer](https://github.com/sahil-khot/LeetCode/tree/master/0013-roman-to-integer) |
 | [0204-count-primes](https://github.com/sahil-khot/LeetCode/tree/master/0204-count-primes) |
 | [1903-largest-odd-number-in-string](https://github.com/sahil-khot/LeetCode/tree/master/1903-largest-odd-number-in-string) |
+| [2816-double-a-number-represented-as-a-linked-list](https://github.com/sahil-khot/LeetCode/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 | [3870-count-commas-in-range](https://github.com/sahil-khot/LeetCode/tree/master/3870-count-commas-in-range) |
 ## Breadth-First Search
 |  |
@@ -212,6 +213,7 @@ Welcome to my collection of **LeetCode solutions**! 🧠
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/sahil-khot/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/sahil-khot/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2816-double-a-number-represented-as-a-linked-list](https://github.com/sahil-khot/LeetCode/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -269,6 +271,7 @@ Welcome to my collection of **LeetCode solutions**! 🧠
 | [0061-rotate-list](https://github.com/sahil-khot/LeetCode/tree/master/0061-rotate-list) |
 | [0138-copy-list-with-random-pointer](https://github.com/sahil-khot/LeetCode/tree/master/0138-copy-list-with-random-pointer) |
 | [0160-intersection-of-two-linked-lists](https://github.com/sahil-khot/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
+| [2816-double-a-number-represented-as-a-linked-list](https://github.com/sahil-khot/LeetCode/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 ## Recursion
 |  |
 | ------- |
