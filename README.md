@@ -130,6 +130,7 @@ Welcome to my collection of **LeetCode solutions**! 🧠
 | [0015-3sum](https://github.com/sahil-khot/LeetCode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/sahil-khot/LeetCode/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/sahil-khot/LeetCode/tree/master/0031-next-permutation) |
+| [0061-rotate-list](https://github.com/sahil-khot/LeetCode/tree/master/0061-rotate-list) |
 | [0151-reverse-words-in-a-string](https://github.com/sahil-khot/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/sahil-khot/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 ## Dynamic Programming
@@ -263,6 +264,7 @@ Welcome to my collection of **LeetCode solutions**! 🧠
 |  |
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/sahil-khot/LeetCode/tree/master/0025-reverse-nodes-in-k-group) |
+| [0061-rotate-list](https://github.com/sahil-khot/LeetCode/tree/master/0061-rotate-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/sahil-khot/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 ## Recursion
 |  |
