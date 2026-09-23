@@ -110,6 +110,7 @@ Welcome to my collection of **LeetCode solutions**! 🧠
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/sahil-khot/LeetCode/tree/master/0002-add-two-numbers) |
 | [0012-integer-to-roman](https://github.com/sahil-khot/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/sahil-khot/LeetCode/tree/master/0013-roman-to-integer) |
 | [0204-count-primes](https://github.com/sahil-khot/LeetCode/tree/master/0204-count-primes) |
@@ -266,6 +267,7 @@ Welcome to my collection of **LeetCode solutions**! 🧠
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/sahil-khot/LeetCode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/sahil-khot/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/sahil-khot/LeetCode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0061-rotate-list](https://github.com/sahil-khot/LeetCode/tree/master/0061-rotate-list) |
@@ -275,6 +277,7 @@ Welcome to my collection of **LeetCode solutions**! 🧠
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/sahil-khot/LeetCode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/sahil-khot/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/sahil-khot/LeetCode/tree/master/0025-reverse-nodes-in-k-group) |
 <!---LeetCode Topics End-->
