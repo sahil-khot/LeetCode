@@ -1,28 +1,33 @@
+import java.util.*;
+
 class Solution {
     public String frequencySort(String s) {
+
+        // 1. Count frequency
         HashMap<Character, Integer> map = new HashMap<>();
-        for(char ch : s.toCharArray()) {
+
+        for (char ch : s.toCharArray()) {
             map.put(ch, map.getOrDefault(ch, 0) + 1);
         }
-        Character[] arr = new Character[s.length()];
-        for(int i = 0; i < arr.length; i++) {
-            arr[i] = s.charAt(i);
-        } 
 
-        Arrays.sort(arr, (a, b) -> {
-            int fa = map.get(a);
-            int fb = map.get(b);
+        // 2. Max heap based on frequency
+        PriorityQueue<Character> pq = new PriorityQueue<>(
+            (a, b) -> map.get(b) - map.get(a)
+        );
 
-            if(fa != fb) {
-                return fb - fa;
-            }
-            return a - b;
-        });
+        pq.addAll(map.keySet());
 
+        // 3. Build answer
         StringBuilder ans = new StringBuilder();
-        for(char ch : arr) {
-            ans.append(ch);
+
+        while (!pq.isEmpty()) {
+            char ch = pq.poll();
+
+            for (int i = 0; i < map.get(ch); i++) {
+                ans.append(ch);
+            }
         }
+
         return ans.toString();
     }
 }
