@@ -34,6 +34,7 @@ Welcome to my collection of **LeetCode solutions**! 🧠
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/sahil-khot/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/sahil-khot/LeetCode/tree/master/0035-search-insert-position) |
 | [0056-merge-intervals](https://github.com/sahil-khot/LeetCode/tree/master/0056-merge-intervals) |
+| [0078-subsets](https://github.com/sahil-khot/LeetCode/tree/master/0078-subsets) |
 | [0118-pascals-triangle](https://github.com/sahil-khot/LeetCode/tree/master/0118-pascals-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/sahil-khot/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0152-maximum-product-subarray](https://github.com/sahil-khot/LeetCode/tree/master/0152-maximum-product-subarray) |
@@ -216,6 +217,7 @@ Welcome to my collection of **LeetCode solutions**! 🧠
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/sahil-khot/LeetCode/tree/master/0078-subsets) |
 | [0191-number-of-1-bits](https://github.com/sahil-khot/LeetCode/tree/master/0191-number-of-1-bits) |
 | [0476-number-complement](https://github.com/sahil-khot/LeetCode/tree/master/0476-number-complement) |
 ## Stack
@@ -300,4 +302,5 @@ Welcome to my collection of **LeetCode solutions**! 🧠
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/sahil-khot/LeetCode/tree/master/0022-generate-parentheses) |
+| [0078-subsets](https://github.com/sahil-khot/LeetCode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
