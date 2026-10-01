@@ -34,6 +34,7 @@ Welcome to my collection of **LeetCode solutions**! 🧠
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/sahil-khot/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/sahil-khot/LeetCode/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/sahil-khot/LeetCode/tree/master/0039-combination-sum) |
+| [0046-permutations](https://github.com/sahil-khot/LeetCode/tree/master/0046-permutations) |
 | [0056-merge-intervals](https://github.com/sahil-khot/LeetCode/tree/master/0056-merge-intervals) |
 | [0078-subsets](https://github.com/sahil-khot/LeetCode/tree/master/0078-subsets) |
 | [0118-pascals-triangle](https://github.com/sahil-khot/LeetCode/tree/master/0118-pascals-triangle) |
@@ -307,5 +308,6 @@ Welcome to my collection of **LeetCode solutions**! 🧠
 | ------- |
 | [0022-generate-parentheses](https://github.com/sahil-khot/LeetCode/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/sahil-khot/LeetCode/tree/master/0039-combination-sum) |
+| [0046-permutations](https://github.com/sahil-khot/LeetCode/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/sahil-khot/LeetCode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
