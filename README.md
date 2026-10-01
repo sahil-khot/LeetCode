@@ -82,6 +82,7 @@ Welcome to my collection of **LeetCode solutions**! 🧠
 | [0012-integer-to-roman](https://github.com/sahil-khot/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/sahil-khot/LeetCode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/sahil-khot/LeetCode/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/sahil-khot/LeetCode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/sahil-khot/LeetCode/tree/master/0022-generate-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/sahil-khot/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/sahil-khot/LeetCode/tree/master/0205-isomorphic-strings) |
@@ -223,12 +224,14 @@ Welcome to my collection of **LeetCode solutions**! 🧠
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/sahil-khot/LeetCode/tree/master/0020-valid-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/sahil-khot/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/sahil-khot/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/sahil-khot/LeetCode/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/sahil-khot/LeetCode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/sahil-khot/LeetCode/tree/master/0022-generate-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/sahil-khot/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/sahil-khot/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
