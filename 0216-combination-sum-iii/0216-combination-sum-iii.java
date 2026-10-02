@@ -22,9 +22,9 @@ class Solution {
         output.add(candidates[i]);
         solve(candidates, target - candidates[i], i + 1, ans, output, count + 1, k);
 
-        while (i < candidates.length - 1 && candidates[i] == candidates[i + 1]) {
-            i++;
-        }
+        // while (i < candidates.length - 1 && candidates[i] == candidates[i + 1]) {
+        //     i++;
+        // }
 
         output.remove(output.size() - 1);
         solve(candidates, target, i + 1, ans, output, count, k);
