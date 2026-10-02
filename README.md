@@ -44,6 +44,7 @@ Welcome to my collection of **LeetCode solutions**! 🧠
 | [0152-maximum-product-subarray](https://github.com/sahil-khot/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/sahil-khot/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0204-count-primes](https://github.com/sahil-khot/LeetCode/tree/master/0204-count-primes) |
+| [0216-combination-sum-iii](https://github.com/sahil-khot/LeetCode/tree/master/0216-combination-sum-iii) |
 | [0229-majority-element-ii](https://github.com/sahil-khot/LeetCode/tree/master/0229-majority-element-ii) |
 | [0463-island-perimeter](https://github.com/sahil-khot/LeetCode/tree/master/0463-island-perimeter) |
 | [0493-reverse-pairs](https://github.com/sahil-khot/LeetCode/tree/master/0493-reverse-pairs) |
@@ -315,4 +316,5 @@ Welcome to my collection of **LeetCode solutions**! 🧠
 | [0046-permutations](https://github.com/sahil-khot/LeetCode/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/sahil-khot/LeetCode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/sahil-khot/LeetCode/tree/master/0090-subsets-ii) |
+| [0216-combination-sum-iii](https://github.com/sahil-khot/LeetCode/tree/master/0216-combination-sum-iii) |
 <!---LeetCode Topics End-->
