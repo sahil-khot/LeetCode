@@ -37,6 +37,7 @@ Welcome to my collection of **LeetCode solutions**! 🧠
 | [0040-combination-sum-ii](https://github.com/sahil-khot/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/sahil-khot/LeetCode/tree/master/0046-permutations) |
 | [0056-merge-intervals](https://github.com/sahil-khot/LeetCode/tree/master/0056-merge-intervals) |
+| [0059-spiral-matrix-ii](https://github.com/sahil-khot/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0078-subsets](https://github.com/sahil-khot/LeetCode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/sahil-khot/LeetCode/tree/master/0090-subsets-ii) |
 | [0118-pascals-triangle](https://github.com/sahil-khot/LeetCode/tree/master/0118-pascals-triangle) |
@@ -138,6 +139,7 @@ Welcome to my collection of **LeetCode solutions**! 🧠
 ## Matrix
 |  |
 | ------- |
+| [0059-spiral-matrix-ii](https://github.com/sahil-khot/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0463-island-perimeter](https://github.com/sahil-khot/LeetCode/tree/master/0463-island-perimeter) |
 | [1901-find-a-peak-element-ii](https://github.com/sahil-khot/LeetCode/tree/master/1901-find-a-peak-element-ii) |
 ## Two Pointers
@@ -285,6 +287,7 @@ Welcome to my collection of **LeetCode solutions**! 🧠
 ## Simulation
 |  |
 | ------- |
+| [0059-spiral-matrix-ii](https://github.com/sahil-khot/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [3498-reverse-degree-of-a-string](https://github.com/sahil-khot/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
 ## Linked List
 |  |
