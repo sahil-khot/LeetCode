@@ -36,6 +36,7 @@ Welcome to my collection of **LeetCode solutions**! 🧠
 | [0039-combination-sum](https://github.com/sahil-khot/LeetCode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/sahil-khot/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/sahil-khot/LeetCode/tree/master/0046-permutations) |
+| [0049-group-anagrams](https://github.com/sahil-khot/LeetCode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/sahil-khot/LeetCode/tree/master/0056-merge-intervals) |
 | [0059-spiral-matrix-ii](https://github.com/sahil-khot/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0078-subsets](https://github.com/sahil-khot/LeetCode/tree/master/0078-subsets) |
@@ -68,6 +69,7 @@ Welcome to my collection of **LeetCode solutions**! 🧠
 | ------- |
 | [0012-integer-to-roman](https://github.com/sahil-khot/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/sahil-khot/LeetCode/tree/master/0013-roman-to-integer) |
+| [0049-group-anagrams](https://github.com/sahil-khot/LeetCode/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/sahil-khot/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0138-copy-list-with-random-pointer](https://github.com/sahil-khot/LeetCode/tree/master/0138-copy-list-with-random-pointer) |
 | [0160-intersection-of-two-linked-lists](https://github.com/sahil-khot/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
@@ -90,6 +92,7 @@ Welcome to my collection of **LeetCode solutions**! 🧠
 | [0014-longest-common-prefix](https://github.com/sahil-khot/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/sahil-khot/LeetCode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/sahil-khot/LeetCode/tree/master/0022-generate-parentheses) |
+| [0049-group-anagrams](https://github.com/sahil-khot/LeetCode/tree/master/0049-group-anagrams) |
 | [0151-reverse-words-in-a-string](https://github.com/sahil-khot/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/sahil-khot/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/sahil-khot/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
@@ -165,6 +168,7 @@ Welcome to my collection of **LeetCode solutions**! 🧠
 | ------- |
 | [0015-3sum](https://github.com/sahil-khot/LeetCode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/sahil-khot/LeetCode/tree/master/0018-4sum) |
+| [0049-group-anagrams](https://github.com/sahil-khot/LeetCode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/sahil-khot/LeetCode/tree/master/0056-merge-intervals) |
 | [0229-majority-element-ii](https://github.com/sahil-khot/LeetCode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/sahil-khot/LeetCode/tree/master/0242-valid-anagram) |
