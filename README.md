@@ -154,6 +154,7 @@ Welcome to my collection of **LeetCode solutions**! 🧠
 | [0018-4sum](https://github.com/sahil-khot/LeetCode/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/sahil-khot/LeetCode/tree/master/0031-next-permutation) |
 | [0061-rotate-list](https://github.com/sahil-khot/LeetCode/tree/master/0061-rotate-list) |
+| [0148-sort-list](https://github.com/sahil-khot/LeetCode/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/sahil-khot/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/sahil-khot/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 ## Dynamic Programming
@@ -170,6 +171,7 @@ Welcome to my collection of **LeetCode solutions**! 🧠
 | [0018-4sum](https://github.com/sahil-khot/LeetCode/tree/master/0018-4sum) |
 | [0049-group-anagrams](https://github.com/sahil-khot/LeetCode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/sahil-khot/LeetCode/tree/master/0056-merge-intervals) |
+| [0148-sort-list](https://github.com/sahil-khot/LeetCode/tree/master/0148-sort-list) |
 | [0229-majority-element-ii](https://github.com/sahil-khot/LeetCode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/sahil-khot/LeetCode/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/sahil-khot/LeetCode/tree/master/0451-sort-characters-by-frequency) |
@@ -204,6 +206,7 @@ Welcome to my collection of **LeetCode solutions**! 🧠
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/sahil-khot/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0148-sort-list](https://github.com/sahil-khot/LeetCode/tree/master/0148-sort-list) |
 | [0191-number-of-1-bits](https://github.com/sahil-khot/LeetCode/tree/master/0191-number-of-1-bits) |
 | [0493-reverse-pairs](https://github.com/sahil-khot/LeetCode/tree/master/0493-reverse-pairs) |
 ## Binary Indexed Tree
@@ -217,6 +220,7 @@ Welcome to my collection of **LeetCode solutions**! 🧠
 ## Merge Sort
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/sahil-khot/LeetCode/tree/master/0148-sort-list) |
 | [0493-reverse-pairs](https://github.com/sahil-khot/LeetCode/tree/master/0493-reverse-pairs) |
 ## Ordered Set
 |  |
@@ -301,6 +305,7 @@ Welcome to my collection of **LeetCode solutions**! 🧠
 | [0025-reverse-nodes-in-k-group](https://github.com/sahil-khot/LeetCode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0061-rotate-list](https://github.com/sahil-khot/LeetCode/tree/master/0061-rotate-list) |
 | [0138-copy-list-with-random-pointer](https://github.com/sahil-khot/LeetCode/tree/master/0138-copy-list-with-random-pointer) |
+| [0148-sort-list](https://github.com/sahil-khot/LeetCode/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/sahil-khot/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/sahil-khot/LeetCode/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 ## Recursion
