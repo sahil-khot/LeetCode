@@ -121,6 +121,7 @@ Welcome to my collection of **LeetCode solutions**! 🧠
 ## Depth-First Search
 |  |
 | ------- |
+| [0199-binary-tree-right-side-view](https://github.com/sahil-khot/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/sahil-khot/LeetCode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0463-island-perimeter](https://github.com/sahil-khot/LeetCode/tree/master/0463-island-perimeter) |
 ## Math
@@ -138,6 +139,7 @@ Welcome to my collection of **LeetCode solutions**! 🧠
 ## Breadth-First Search
 |  |
 | ------- |
+| [0199-binary-tree-right-side-view](https://github.com/sahil-khot/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0463-island-perimeter](https://github.com/sahil-khot/LeetCode/tree/master/0463-island-perimeter) |
 ## Matrix
 |  |
@@ -329,4 +331,12 @@ Welcome to my collection of **LeetCode solutions**! 🧠
 | [0078-subsets](https://github.com/sahil-khot/LeetCode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/sahil-khot/LeetCode/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/sahil-khot/LeetCode/tree/master/0216-combination-sum-iii) |
+## Tree
+|  |
+| ------- |
+| [0199-binary-tree-right-side-view](https://github.com/sahil-khot/LeetCode/tree/master/0199-binary-tree-right-side-view) |
+## Binary Tree
+|  |
+| ------- |
+| [0199-binary-tree-right-side-view](https://github.com/sahil-khot/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 <!---LeetCode Topics End-->
