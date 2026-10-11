@@ -57,6 +57,7 @@ Welcome to my collection of **LeetCode solutions**! 🧠
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/sahil-khot/LeetCode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1539-kth-missing-positive-number](https://github.com/sahil-khot/LeetCode/tree/master/1539-kth-missing-positive-number) |
 | [1901-find-a-peak-element-ii](https://github.com/sahil-khot/LeetCode/tree/master/1901-find-a-peak-element-ii) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/sahil-khot/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/sahil-khot/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3904-smallest-stable-index-ii](https://github.com/sahil-khot/LeetCode/tree/master/3904-smallest-stable-index-ii) |
 ## Prefix Sum
@@ -278,6 +279,7 @@ Welcome to my collection of **LeetCode solutions**! 🧠
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/sahil-khot/LeetCode/tree/master/0204-count-primes) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/sahil-khot/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
 ## Number Theory
 |  |
 | ------- |
