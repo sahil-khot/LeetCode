@@ -35,6 +35,7 @@ Welcome to my collection of **LeetCode solutions**! 🧠
 | [0035-search-insert-position](https://github.com/sahil-khot/LeetCode/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/sahil-khot/LeetCode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/sahil-khot/LeetCode/tree/master/0040-combination-sum-ii) |
+| [0042-trapping-rain-water](https://github.com/sahil-khot/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/sahil-khot/LeetCode/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/sahil-khot/LeetCode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/sahil-khot/LeetCode/tree/master/0056-merge-intervals) |
@@ -156,6 +157,7 @@ Welcome to my collection of **LeetCode solutions**! 🧠
 | [0015-3sum](https://github.com/sahil-khot/LeetCode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/sahil-khot/LeetCode/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/sahil-khot/LeetCode/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/sahil-khot/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/sahil-khot/LeetCode/tree/master/0061-rotate-list) |
 | [0148-sort-list](https://github.com/sahil-khot/LeetCode/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/sahil-khot/LeetCode/tree/master/0151-reverse-words-in-a-string) |
@@ -165,6 +167,7 @@ Welcome to my collection of **LeetCode solutions**! 🧠
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/sahil-khot/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/sahil-khot/LeetCode/tree/master/0022-generate-parentheses) |
+| [0042-trapping-rain-water](https://github.com/sahil-khot/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0118-pascals-triangle](https://github.com/sahil-khot/LeetCode/tree/master/0118-pascals-triangle) |
 | [0152-maximum-product-subarray](https://github.com/sahil-khot/LeetCode/tree/master/0152-maximum-product-subarray) |
 ## Sorting
@@ -244,6 +247,7 @@ Welcome to my collection of **LeetCode solutions**! 🧠
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/sahil-khot/LeetCode/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/sahil-khot/LeetCode/tree/master/0042-trapping-rain-water) |
 | [1021-remove-outermost-parentheses](https://github.com/sahil-khot/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/sahil-khot/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/sahil-khot/LeetCode/tree/master/2816-double-a-number-represented-as-a-linked-list) |
@@ -341,4 +345,8 @@ Welcome to my collection of **LeetCode solutions**! 🧠
 |  |
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/sahil-khot/LeetCode/tree/master/0199-binary-tree-right-side-view) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/sahil-khot/LeetCode/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
