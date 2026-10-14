@@ -134,6 +134,7 @@ Welcome to my collection of **LeetCode solutions**! 🧠
 | [0013-roman-to-integer](https://github.com/sahil-khot/LeetCode/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/sahil-khot/LeetCode/tree/master/0050-powx-n) |
 | [0204-count-primes](https://github.com/sahil-khot/LeetCode/tree/master/0204-count-primes) |
+| [0292-nim-game](https://github.com/sahil-khot/LeetCode/tree/master/0292-nim-game) |
 | [1903-largest-odd-number-in-string](https://github.com/sahil-khot/LeetCode/tree/master/1903-largest-odd-number-in-string) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/sahil-khot/LeetCode/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/sahil-khot/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -349,4 +350,24 @@ Welcome to my collection of **LeetCode solutions**! 🧠
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/sahil-khot/LeetCode/tree/master/0042-trapping-rain-water) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/sahil-khot/LeetCode/tree/master/0292-nim-game) |
+## Minimax
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/sahil-khot/LeetCode/tree/master/0292-nim-game) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/sahil-khot/LeetCode/tree/master/0292-nim-game) |
+## Nim Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/sahil-khot/LeetCode/tree/master/0292-nim-game) |
+## Impartial Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/sahil-khot/LeetCode/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
